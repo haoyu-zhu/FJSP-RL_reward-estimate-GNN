@@ -1,0 +1,4 @@
+id,jobs,total_ops,machines,makespan,status,gantt_png
+1,40,387,10,385,FEASIBLE,gantt_test\gantt_001_ms385.png
+2,40,406,10,424,FEASIBLE,gantt_test\gantt_002_ms424.png
+3,40,396,10,390,FEASIBLE,gantt_test\gantt_003_ms390.png
